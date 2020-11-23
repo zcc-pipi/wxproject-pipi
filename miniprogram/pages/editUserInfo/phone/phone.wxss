@@ -1,0 +1,2 @@
+/* miniprogram/pages/editUserInfo/phone/phone.wxss */
+input{border: 1px blueviolet solid;}
